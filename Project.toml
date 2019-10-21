@@ -1,0 +1,4 @@
+name = "julia_pkg"
+uuid = "497efb67-e3ae-4405-adcd-377db56061b9"
+authors = ["jestonblu <jestonblu@gmail.com>"]
+version = "0.1.0"
