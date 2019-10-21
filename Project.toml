@@ -2,3 +2,7 @@ name = "julia_pkg"
 uuid = "497efb67-e3ae-4405-adcd-377db56061b9"
 authors = ["jestonblu <jestonblu@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
